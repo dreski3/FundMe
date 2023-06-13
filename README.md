@@ -16,7 +16,7 @@ This is a section of the Cyfrin Solidity Course.
   - [Estimate gas](#estimate-gas)
 - [Formatting](#formatting)
 
-This project is apart of the Hardhat FreeCodeCamp video.
+This project is part of the Patrick Collins Solidity video.
 
 # Getting Started
 
@@ -52,7 +52,7 @@ forge script scripts/DeployFundMe.s.sol
 
 ## Testing
 
-We talk about 4 test tiers in the video. 
+There are 4 types of tests:
 
 1. Unit
 2. Integration
